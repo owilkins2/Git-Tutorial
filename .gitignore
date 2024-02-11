@@ -1,0 +1,17 @@
+# output files
+*.pdf
+
+# archive files
+*.zip
+*.rar
+
+# latex intermediaries
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.xml
